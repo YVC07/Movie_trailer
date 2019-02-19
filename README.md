@@ -4,11 +4,11 @@ A simple movie trailer website project for Udacity's full-stack [nanodegree prog
 
 ## Demo
 
-For a demo, check out <http://edwardbryant.github.io/udacity-movie-trailer-project/fresh_tomatoes.html>!
+For a demo, check out <https://github.com/YVC07/Movie_trailer/blob/master/fresh_tomatoes.html>!
 
 ## Download
 
-The files for the project, may be [downloaded here](https://github.com/edwardbryant/udacity-movie-trailer-project/archive/master.zip).
+The files for the project, may be [downloaded here](https://github.com/YVC07/Movie_trailer).
 
 ### What's included
 
@@ -33,7 +33,7 @@ udacity-movie-trailer-project-master.zip/
 
 ### Movie object class
 
-The Movie object class consists of four class variables, a simple constructor method, and a class method for playing a Movie object's movie trailer. The code is located in [media.py](https://github.com/edwardbryant/udacity-movie-trailer-project/blob/master/media.py). 
+The Movie object class consists of four class variables, a simple constructor method, and a class method for playing a Movie object's movie trailer. The code is located in [media.py](https://github.com/YVC07/Movie_trailer/blob/master/media.py). 
 
 ##### constructor method
 
@@ -62,7 +62,7 @@ show_trailer can be called on any Movie class object to launch that object's mov
 
 ### Movie Trailer Page Functions 
 
-The functions used to create the final movie trailers page are located in [fresh_tomatoes.py](), along with HTML template variables used by these functions. This file must be imported to access the functions described below.
+The functions used to create the final movie trailers page are located in [fresh_tomatoes.py](https://github.com/YVC07/Movie_trailer/blob/master/fresh_tomatoes.py), along with HTML template variables used by these functions. This file must be imported to access the functions described below.
 
 #### open_movies_page function
 
